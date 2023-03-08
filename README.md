@@ -83,7 +83,8 @@ Clone this repository to your desired folder:
 
 ```
   git clone git@github.com:myaserkhan/Hello-Rails-Backend.git
-  cd HHello-Rails-Backend 
+  
+  cd Hello-Rails-Backend
 ```
 
 ### Install
@@ -129,7 +130,7 @@ You can deploy this project using:
  
 👤 **Yasir Khan**
 - GitHub: [@myaserkhan](https://github.com/myaserkhan)
-- Twitter: [@khanyaser007](https://twitter.com/kanza_tahreem)
+- Twitter: [@khanyaser007](https://twitter.com/khanyaser007)
 - LinkedIn: [Yasir-Khan](https://www.linkedin.com/in/myaserkhan/)
 
 
